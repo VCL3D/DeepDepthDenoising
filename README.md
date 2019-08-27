@@ -1,8 +1,2 @@
-# Self-Supervised Deep Depth Denoising
-
-# Citation
-
-# Contact
-
-# Acknowledgements
+This repository contains is the project page for ...
 
