@@ -17,11 +17,20 @@ The paper is available in [arxiv](https://arxiv.org)
 ## Supplementary
 ![supp](./assets/images/supp.png)
 # Authors
-[Vladimiros Sterzentsenko](https://github.com/vladsterz), [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html), [Anargyros Chatzitofis](https://github.com/tofis), [Spyridon Thermos](https://github.com/spthermo), [Nikolaos Zioulis](https://github.com/zuru), [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
+[Vladimiros Sterzentsenko](https://github.com/vladsterz), [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html), [Anargyros Chatzitofis](https://github.com/tofis), [Spyridon Thermos](https://github.com/spthermo), [Nikolaos Zioulis](https://github.com/zuru), [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
 
 [Visual Computing Lab (VCL)](https://vcl.iti.gr)
 
 # Citation
+If you use this code and/or data, please cite the following:
+```
+@inproceedings{sterzentsenko2019denoising,
+  author       = "Vladimiros Sterzentsenko and Leonidas Saroglou and Anargyros Chatzitofis and Spyridon Thermos and Nikolaos Zioulis and Dimitrios Zarpalas and Petros Daras",
+  title        = "Self-Supervised Deep Depth Denoising",
+  booktitle    = "ICCV",
+  year         = "2019"
+}
+```
 
 # Acknowledgements
 We thank the anonymous reviewers for helpful comments.
@@ -31,3 +40,6 @@ This project has received funding from the European Union’s Horizon 2020 innov
 We would like to thank NVIDIA for supporting our research with GPU donations through the NVIDIA GPU Grant Program.
 
 ![ack](./assets/images/ack.png)
+
+# Contact
+Please direct any questions related to the code & models to vladster@iti.gr or post an issue to the code [repo](https://github.com/VCL3D/DeepDepthDenoising).
