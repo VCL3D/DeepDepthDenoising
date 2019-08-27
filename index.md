@@ -10,6 +10,8 @@ Depth perception is considered an invaluable sourceof information for various vi
 ![H-structure](./assets/images/h-structure.png)
 
 # Publication
+The paper is available in [arxiv](https://arxiv.org)
+
 ## Paper
 ![paper](./assets/images/paper.png)
 ## Supplementary
@@ -27,4 +29,5 @@ We thank the anonymous reviewers for helpful comments.
 This project has received funding from the European Union’s Horizon 2020 innovation programme [VRTogether](https://vrtogether.eu/) under grant agreement No 762111.
 
 We would like to thank NVIDIA for supporting our research with GPU donations through the NVIDIA GPU Grant Program.
+
 ![ack](./assets/images/ack.png)
