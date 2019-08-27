@@ -22,7 +22,7 @@ The paper is available in [arxiv](https://arxiv.org)
 [Visual Computing Lab (VCL)](https://vcl.iti.gr)
 
 # Citation
-If you use this code and/or data, please cite the following:
+If you use this code and/or models, please cite the following:
 ```
 @inproceedings{sterzentsenko2019denoising,
   author       = "Vladimiros Sterzentsenko and Leonidas Saroglou and Anargyros Chatzitofis and Spyridon Thermos and Nikolaos Zioulis and Alexandros Doumanoglou and Dimitrios Zarpalas and Petros Daras",
