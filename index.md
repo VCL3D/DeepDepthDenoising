@@ -11,11 +11,20 @@ Depth perception is considered an invaluable sourceof information for various vi
 
 # Publication
 ## Paper
-
+![paper](./assets/images/paper.png)
 ## Supplementary
-
+![supp](./assets/images/supp.png)
 # Authors
+[Vladimiros Sterzentsenko](https://github.com/vladsterz), [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html), [Anargyros Chatzitofis](https://github.com/tofis), [Spyridon Thermos](https://github.com/spthermo), [Nikolaos Zioulis](https://github.com/zuru), [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
+
+[Visual Computing Lab (VCL)](https://vcl.iti.gr)
 
 # Citation
 
 # Acknowledgements
+We thank the anonymous reviewers for helpful comments.
+
+This project has received funding from the European Union’s Horizon 2020 innovation programme [VRTogether](https://vrtogether.eu/) under grant agreement No 762111.
+
+We would like to thank NVIDIA for supporting our research with GPU donations through the NVIDIA GPU Grant Program.
+![ack](./assets/images/ack.png)
