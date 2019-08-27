@@ -17,7 +17,7 @@ The paper is available in [arxiv](https://arxiv.org)
 ## Supplementary
 [![supp](./assets/images/supp.png)](https://arxiv.org)
 # Authors
-[Vladimiros Sterzentsenko](https://github.com/vladsterz)*, [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html)*, [Anargyros Chatzitofis](https://github.com/tofis)*, [Spyridon Thermos](https://github.com/spthermo)*, [Nikolaos](https://github.com/zokin) [Zioulis](https://github.com/zuru)*, [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
+[Vladimiros Sterzentsenko](https://github.com/vladsterz)__&ast;__, [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html)__&ast;__, [Anargyros Chatzitofis](https://github.com/tofis)__&ast;__, [Spyridon Thermos](https://github.com/spthermo)__&ast;__, [Nikolaos](https://github.com/zokin) [Zioulis](https://github.com/zuru)__&ast;__, [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
 
 [Visual Computing Lab (VCL)](https://vcl.iti.gr)
 
