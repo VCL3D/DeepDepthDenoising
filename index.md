@@ -13,11 +13,11 @@ Depth perception is considered an invaluable sourceof information for various vi
 The paper is available in [arxiv](https://arxiv.org)
 
 ## Paper
-![paper](./assets/images/paper.png)
+[![paper](./assets/images/paper.png)](https://arxiv.org)
 ## Supplementary
-![supp](./assets/images/supp.png)
+[![supp](./assets/images/supp.png)](https://arxiv.org)
 # Authors
-[Vladimiros Sterzentsenko](https://github.com/vladsterz), [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html), [Anargyros Chatzitofis](https://github.com/tofis), [Spyridon Thermos](https://github.com/spthermo), [Nikolaos Zioulis](https://github.com/zuru), [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
+[Vladimiros Sterzentsenko](https://github.com/vladsterz)__*__, [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html)__*__, [Anargyros Chatzitofis](https://github.com/tofis)__*__, [Spyridon Thermos](https://github.com/spthermo)__*__, [Nikolaos](https://github.com/zokin)  [Zioulis](https://github.com/zuru)__*__, [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
 
 [Visual Computing Lab (VCL)](https://vcl.iti.gr)
 
@@ -25,7 +25,7 @@ The paper is available in [arxiv](https://arxiv.org)
 If you use this code and/or data, please cite the following:
 ```
 @inproceedings{sterzentsenko2019denoising,
-  author       = "Vladimiros Sterzentsenko and Leonidas Saroglou and Anargyros Chatzitofis and Spyridon Thermos and Nikolaos Zioulis and Dimitrios Zarpalas and Petros Daras",
+  author       = "Vladimiros Sterzentsenko and Leonidas Saroglou and Anargyros Chatzitofis and Spyridon Thermos and Nikolaos Zioulis and Alexandros Doumanoglou and Dimitrios Zarpalas and Petros Daras",
   title        = "Self-Supervised Deep Depth Denoising",
   booktitle    = "ICCV",
   year         = "2019"
@@ -42,4 +42,4 @@ We would like to thank NVIDIA for supporting our research with GPU donations thr
 ![ack](./assets/images/ack.png)
 
 # Contact
-Please direct any questions related to the code & models to vladster@iti.gr or post an issue to the code [repo](https://github.com/VCL3D/DeepDepthDenoising).
+Please direct any questions related to the code & models to [vladster@iti.gr](mailto:vladster@iti.gr) or post an issue to the code [repo](https://github.com/VCL3D/DeepDepthDenoising).
