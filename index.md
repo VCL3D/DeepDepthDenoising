@@ -7,7 +7,7 @@ Depth perception is considered an invaluable sourceof information for various vi
 ![concept](./assets/images/concept.png)
 
 # H-structure
-![H-structure](./assets/images/h-structure.png)
+![H-structure](./assets/images/h_structure.png)
 
 # Publication
 The paper is available in [arxiv](https://arxiv.org)
