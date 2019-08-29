@@ -42,4 +42,4 @@ We would like to thank NVIDIA for supporting our research with GPU donations thr
 ![ack](./assets/images/ack.png)
 
 # Contact
-Please direct any questions related to the code & models to [vladster@iti.gr](mailto:vladster@iti.gr) or post an issue to the code [repo](https://github.com/VCL3D/DeepDepthDenoising).
+Please direct any questions related to the code & models to *vladster "at" iti "dot" gr* or post an issue to the code [repo](https://github.com/VCL3D/DeepDepthDenoising).
