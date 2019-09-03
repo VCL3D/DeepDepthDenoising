@@ -11,9 +11,14 @@ The code has been tested with the following setup:
 To train the model for depth denoising:
 
 ```python train.py```
+
 To see the available training parameters:
 
 ```python train.py -h```
+
+Training example:
+
+```python train.py --batchsize 2 --epochs 20 --lr 0.00002 --visdom --visdom_iters 500 --disp_iters 10 --train_path /path/to/train/set```
 
 # Inference
 To denoise a RealSense sample using a pretrained model:
@@ -24,7 +29,7 @@ In order to save the input (noisy) and the output (denoised) samples as pointclo
 
 ```--pointclouds True```
 
-To denoise a sample using the pretrained autoencoder (same model trained without splatting) add the following flag to the inference script:
+To denoise a sample using the pretrained autoencoder (same model trained without splatting) add the following flag to the inference script (and make sure you load the "ddd_ae" model):
 
 ```--autoencoder True```
 
