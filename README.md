@@ -33,7 +33,7 @@ Training example:
 ```python train.py --batchsize 2 --epochs 20 --lr 0.00002 --visdom --visdom_iters 500 --disp_iters 10 --train_path /path/to/train/set```
 
 # Inference
-Download a pretrained model from [here](https://drive.google.com/drive/folders/15HIJrHiuqfE37v0_d-m-k5RP8UJJXmvm?usp=sharing)
+The weights of pretrained models can be downloaded from [here](https://github.com/VCL3D/DeepDepthDenoising/releases):
  * ddd --> trained with multi-view supervision (as presented in the paper):
  * ddd_ae --> same model architecture, no multi-view supervision (for comparison purposes)
 
