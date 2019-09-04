@@ -10,7 +10,7 @@ Depth perception is considered an invaluable source of information for various v
 ![H-structure](./assets/images/h_structure.png)
 
 # Publication
-The paper is available in [arxiv](https://arxiv.org//abs//1909.01193)
+The paper is available in [arxiv](https://arxiv.org//abs//1909.01193) and has been accepted to [ICCV 2019](http://iccv2019.thecvf.com/).
 
 [![paper](./assets/images/paper.png)](https://arxiv.org/pdf/1909.01193.pdf)
 [![supp](./assets/images/supp.png)](https://arxiv.org/pdf/1909.01193.pdf)
