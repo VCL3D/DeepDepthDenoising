@@ -14,6 +14,7 @@ The paper is available in [arxiv](https://arxiv.org//abs//1909.01193) and has be
 
 [![paper](./assets/images/paper.png)](https://arxiv.org/pdf/1909.01193.pdf)
 [![supp](./assets/images/supp.png)](https://arxiv.org/pdf/1909.01193.pdf)
+
 # Authors
 [Vladimiros Sterzentsenko](https://github.com/vladsterz)__\*__, [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html)__\*__, [Anargyros Chatzitofis](https://github.com/tofis)__\*__, [Spyridon Thermos](https://github.com/spthermo)__\*__, [Nikolaos](https://github.com/zokin) [Zioulis](https://github.com/zuru)__\*__, [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
 
