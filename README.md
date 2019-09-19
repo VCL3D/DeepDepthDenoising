@@ -1,5 +1,5 @@
 # Self-supervised Deep Depth Denoising
-Created by [Vladimiros Sterzentsenko](https://github.com/vladsterz)__\*__, [Leonidas Saroglou](https://www.iti.gr/iti/people/Leonidas_Saroglou.html)__\*__, [Anargyros Chatzitofis](https://github.com/tofis)__\*__, [Spyridon Thermos](https://github.com/spthermo)__\*__, [Nikolaos](https://github.com/zokin) [Zioulis](https://github.com/zuru)__\*__, [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html) from the [Visual Computing Lab](https://vcl.iti.gr) @ CERTH
+Created by [Vladimiros Sterzentsenko](https://github.com/vladsterz)__\*__, [Leonidas Saroglou](https://github.com/LeoSarog)__\*__, [Anargyros Chatzitofis](https://github.com/tofis)__\*__, [Spyridon Thermos](https://github.com/spthermo)__\*__, [Nikolaos](https://github.com/zokin) [Zioulis](https://github.com/zuru)__\*__, [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html) from the [Visual Computing Lab](https://vcl.iti.gr) @ CERTH
 
 ![poisson](./assets/images/poisson.jpg)
 
