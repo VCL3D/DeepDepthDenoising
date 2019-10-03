@@ -37,7 +37,7 @@ The weights of pretrained models can be downloaded from [here](https://github.co
  * ddd --> trained with multi-view supervision (as presented in the paper):
  * ddd_ae --> same model architecture, no multi-view supervision (for comparison purposes)
 
-To denoise a RealSense sample using a pretrained model:
+To denoise a RealSense D415 depth sample using a pretrained model:
 
 ```python inference.py --model_path /path/to/pretrained/model --input_path /path/to/noisy/sample --output_path /path/to/save/denoised/sample```
 
