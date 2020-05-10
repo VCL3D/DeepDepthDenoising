@@ -1,4 +1,9 @@
 # Self-supervised Deep Depth Denoising
+
+[![Paper](http://img.shields.io/badge/paper-arxiv.1909.01193-critical.svg?style=plastic)](https://arxiv.org/pdf/1909.01193.pdf)
+[![Conference](http://img.shields.io/badge/ICCV-2019-blue.svg?style=plastic)](http://iccv2019.thecvf.com/)
+[![Project Page](http://img.shields.io/badge/Project-Page-blueviolet.svg?style=plastic)](https://vcl3d.github.io/DeepDepthDenoising/)
+
 Created by [Vladimiros Sterzentsenko](https://github.com/vladsterz)__\*__, [Leonidas Saroglou](https://github.com/LeoSarog)__\*__, [Anargyros Chatzitofis](https://github.com/tofis)__\*__, [Spyridon Thermos](https://github.com/spthermo)__\*__, [Nikolaos](https://github.com/zokin) [Zioulis](https://github.com/zuru)__\*__, [Alexandros Doumanoglou](https://www.iti.gr/iti/people/Alexandros_Doumanoglou.html), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html) from the [Visual Computing Lab](https://vcl.iti.gr) @ CERTH
 
 ![poisson](./assets/images/poisson.jpg)
