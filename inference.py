@@ -39,7 +39,7 @@ def run_model(
     scale               : float
 ):
     assert os.path.exists(input_path), "{} does not exist\n".format(input_path)
-    assert os.path.exists(model_path), "{} does not exist\n".format(input_path)
+    assert os.path.exists(model_path), "{} does not exist\n".format(model_path)
 
     if not os.path.exists(output_path):
         print("{} does not exist,creating\n".format(input_path))
